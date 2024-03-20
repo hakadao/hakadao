@@ -1,5 +1,8 @@
-### Hi there 👋
+<img src="https://github.com/hakadao/hakadao/assets/33394391/2e5d270b-3932-4c73-be51-a400a5d54ae3" width="200" />
 
+~~im broke~~
+
+aifadian: https://afdian.net/a/Hakadao
 <!--
 **hakadao/hakadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
