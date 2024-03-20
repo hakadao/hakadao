@@ -2,7 +2,7 @@
 
 ~~im broke~~
 
-aifadian: https://afdian.net/a/Hakadao
+afadian: https://afdian.net/a/Hakadao
 <!--
 **hakadao/hakadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
