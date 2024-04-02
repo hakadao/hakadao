@@ -1,3 +1,12 @@
+- 🌱 I’m currently learning how to make money
+- ⚡ Fun fact: i need more money
+- 📫 How to reach me: at least its not qq or wechat (i hate them)
+
+[twitter](https://twitter.com/Hakadaooo)
+[twitter(en)](https://twitter.com/Hakadaoooo)
+[codepen](https://codepen.io/Hakadao)
+[bilibili](https://space.bilibili.com/5011356)
+
 <img src="https://github.com/hakadao/hakadao/assets/33394391/2e5d270b-3932-4c73-be51-a400a5d54ae3" width="200" />
 
 ~~im broke~~
