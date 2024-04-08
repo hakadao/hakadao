@@ -13,7 +13,7 @@
 
 afadian: https://afdian.net/a/Hakadao
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakadao&show_icons=true&theme=dark&border_color=0000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakadao&show_icons=true&theme=dark&border_color=0000&hide=prs)
 <!--
 **hakadao/hakadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
