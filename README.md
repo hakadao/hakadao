@@ -4,6 +4,8 @@
 - 📫 How to reach me: at least its not qq or wechat (I HATE THEM)
 -->
 
+https://bento.me/hakadao
+
 [twitter](https://twitter.com/Hakadaooo)
 [twitter(en)](https://twitter.com/Hakadaoooo)
 [codepen](https://codepen.io/Hakadao)
