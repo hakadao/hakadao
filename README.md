@@ -4,7 +4,7 @@
 - 📫 How to reach me: at least its not qq or wechat (I HATE THEM)
 -->
 
-# 我從來都冇覺得玩 Open Source 開心過
+# 我從來都冇覺得玩開源開心過
 
 😱 [about](https://bento.me/hakadao) -
 🐦 [twitter](https://twitter.com/Hakadaooo) -
