@@ -4,6 +4,8 @@
 - 📫 How to reach me: at least its not qq or wechat (I HATE THEM)
 -->
 
+[落後的瀏覽器應該早點被淘汰而非被人當作某一品味一樣追捧和擁護](https://www.apple.com/safari/)
+
 😱 [about](https://bento.me/hakadao) -
 🐦 [twitter](https://twitter.com/Hakadaooo) -
 🕊️ [twitter(en)](https://twitter.com/Hakadaoooo) -
