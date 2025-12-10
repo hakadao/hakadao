@@ -4,9 +4,6 @@
 - 📫 How to reach me: at least its not qq or wechat (I HATE THEM)
 -->
 
-``` bash
-> clear
-```
 😱 [about](https://hakadao.cc) -
 🐦 [twitter](https://twitter.com/Hakadaooo) -
 🕊️ [twitter(en)](https://twitter.com/Hakadaoooo) -
