@@ -7,7 +7,7 @@
 ``` bash
 > clear
 ```
-😱 [about](https://bento.me/hakadao) -
+😱 [about](https://hakadao.cc) -
 🐦 [twitter](https://twitter.com/Hakadaooo) -
 🕊️ [twitter(en)](https://twitter.com/Hakadaoooo) -
 🖋️ [codepen](https://codepen.io/Hakadao) - 
