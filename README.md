@@ -4,7 +4,7 @@
 - 📫 How to reach me: at least its not qq or wechat (I HATE THEM)
 -->
 
- [about](https://hakadao.cc)
+ [whoami](https://hakadao.cc)
 
 <!--
 <img src="https://github.com/hakadao/hakadao/assets/33394391/2e5d270b-3932-4c73-be51-a400a5d54ae3" width="200" />
