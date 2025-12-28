@@ -4,12 +4,7 @@
 - 📫 How to reach me: at least its not qq or wechat (I HATE THEM)
 -->
 
-😱 [about](https://hakadao.cc) -
-🐦 [twitter](https://twitter.com/Hakadaooo) -
-🕊️ [twitter(en)](https://twitter.com/Hakadaoooo) -
-🖋️ [codepen](https://codepen.io/Hakadao) - 
-📺 [youtube](https://www.youtube.com/channel/UC3YvheCNP09ZMaw66cPJ_YA) -
-📺 [bilibili](https://space.bilibili.com/5011356)
+ [about](https://hakadao.cc)
 
 <!--
 <img src="https://github.com/hakadao/hakadao/assets/33394391/2e5d270b-3932-4c73-be51-a400a5d54ae3" width="200" />
@@ -18,7 +13,7 @@
 -->
 <!-- sponsor: https://github.com/hakadao/sponsors -->
 
-![Hakadao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakadao&show_icons=true&theme=dark&border_color=0000&hide=prs)
+![Hakadao's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hakadao&show_icons=true&theme=dark&border_color=0000&hide=prs)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakadao&size_weight=0.5&count_weight=0.5&theme=dark&border_color=0000&layout=compact) -->
 <!--
 **hakadao/hakadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
